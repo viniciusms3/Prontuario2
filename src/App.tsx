@@ -195,7 +195,7 @@ export default function App() {
       setViewerState({
         isOpen: true,
         title: 'Bloco 3: Protocolo de Exames Laboratoriais (9 Páginas)',
-        subtitle: 'Laboratório Carlos Chagas · Dr. Arthur Valdier / Dra. Cecília',
+        subtitle: 'Laboratório Carlos Chagas · Dr. Arthur Valdier ',
         pages: [
           '/assets/rendered/lab_carlos_chagas_estradiol_9p_p01.png',
           '/assets/rendered/lab_carlos_chagas_estradiol_9p_p02.png',

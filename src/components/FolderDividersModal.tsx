@@ -93,7 +93,7 @@ export const FolderDividersModal: React.FC<FolderDividersModalProps> = ({
                 • Item 09: Laudos de Carga Viral HIV (129 cópias) e CD4/CD8 (469 células)<br />
                 • Item 10: Protocolo de Coleta Recente / Portais Online P168579<br />
                 • Item 11: Protocolo Completo de Exames Laboratoriais (9 Páginas Carlos Chagas)<br />
-                • Item 12: Índice e Sumário Geral dos Exames Laboratoriais (4 Blocos)
+                • Item 12: Índice e Sumário Geral dos Exames Laboratoriais (4 Blocos) 
               </p>
             </div>
 
